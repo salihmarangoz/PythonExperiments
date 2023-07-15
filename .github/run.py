@@ -43,6 +43,11 @@ for experiment_name, description in zip(experiments,descriptions):
 print(template_contents)
 print("Done!")
 
+badge = "[![Automated Readme Generator](https://github.com/salihmarangoz/PythonExperiments/actions/workflows/update.yml/badge.svg?branch=main)](https://github.com/salihmarangoz/PythonExperiments/actions/workflows/update.yml)"
+template_contents.append("\n")
+template_contents.append(badge)
+
+
 print("Writing contents to README.md...")
 with open(README_PATH, 'w') as readme_file:
     readme_file.writelines(template_contents)
