@@ -1,5 +1,9 @@
 # FastSAM_webcam
 
+Playing with Fast Segment Anything Model using a webcam.
+
+
+
 ![ss](ss.png)
 
 **Note:** Code sometimes fails with error. Test with newer versions.

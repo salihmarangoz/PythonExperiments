@@ -1,6 +1,6 @@
 # Backscrub_Alt_2
 
-I was trying to find an alternative to https://github.com/floe/backscrub. I tried to use optical flow to combine it with the exponential weighted averaging. There are also other experiments with grabcut and bilateral filtering.
+I was trying to find an alternative to [floe/backscrub](https://github.com/floe/backscrub). I tried to use optical flow to combine it with the exponential weighted averaging. There are also other experiments with grabcut and bilateral filtering.
 
 This doesn't output to v4l2loopback.
 

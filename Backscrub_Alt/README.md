@@ -1,8 +1,6 @@
 # Backscrub_Alt
 
-I was trying to find an alternative to https://github.com/floe/backscrub and tried models from https://github.com/anilsathyan7/Portrait-Segmentation/tree/master/models/portrait_video
-
-Also, portrait_video.py writes the output to stdout as binary which is forwarded to v4l2 device using ffmpeg.
+I was trying to find an alternative to [floe/backscrub](https://github.com/floe/backscrub) and tried models from [anilsathyan7/Portrait-Segmentation](anilsathyan7/Portrait-Segmentation). Also, `portrait_video.py` writes the output image to stdout in binary which is forwarded to v4l2loopback device using ffmpeg.
 
 ## Requirements
 

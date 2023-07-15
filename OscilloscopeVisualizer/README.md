@@ -1,6 +1,8 @@
-# OsiloscopeVisualizer
+# OscilloscopeVisualizer
 
-Running all scripts at the same time. Generating sound via processing webcam image and visualizing with two other scripts. If you liked this project also see [Woscope](https://m1el.github.io/woscope/). 
+Generating sound via processing the webcam image and visualizing it like oscilloscopes would do. 
+
+If you liked this project also see [Woscope](https://m1el.github.io/woscope/). 
 
 ![all_apps](imgs/all_apps.gif)
 
