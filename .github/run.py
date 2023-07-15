@@ -39,7 +39,7 @@ print("Building the table...")
 template_contents.append("| Experiment | Description |\n")
 template_contents.append("| ---------- | ----------- |\n")
 for experiment_name, description in zip(experiments,descriptions):
-    template_contents.append("| [" + experiment_name + "](" + experiment_name + "/README.md) | " + description + " |\n")
+    template_contents.append("| [" + experiment_name + "](" + experiment_name + ") | " + description + " |\n")
 print(template_contents)
 print("Done!")
 
