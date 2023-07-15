@@ -1,5 +1,5 @@
 # PythonExperiments
-Various small Python codes from Deep Learning to Robotics
+Various small Python codes from Deep Learning to Robotics. Check my [blog](https://salihmarangoz.github.io/) for more.
 
 | Experiment | Description |
 | ---------- | ----------- |
@@ -10,3 +10,5 @@ Various small Python codes from Deep Learning to Robotics
 | [OptunaIK](OptunaIK/README.md) | Can I solve inverse kinematics using Optuna? Well... There are many good solutions to this problem. It is possible to solve using Optuna. It is not a good solution. But a solution... |
 | [OscilloscopeVisualizer](OscilloscopeVisualizer/README.md) | Generating sound via processing the webcam image and visualizing it like oscilloscopes would do. |
 | [Backscrub_Alt_2](Backscrub_Alt_2/README.md) | I was trying to find an alternative to [floe/backscrub](https://github.com/floe/backscrub). I tried to use optical flow to combine it with the exponential weighted averaging. There are also other experiments with grabcut and bilateral filtering. |
+
+[![Automated Readme Generator](https://github.com/salihmarangoz/PythonExperiments/actions/workflows/update.yml/badge.svg?branch=main)](https://github.com/salihmarangoz/PythonExperiments/actions/workflows/update.yml)
